@@ -12,7 +12,7 @@ By pressing the Start button the Listening start...
             as the keylogger.exe exist under a directory named "dbsys".
             
     - for each keystorke :
-          * it dumps the key pressed down into a richText field.
+          * it dumps the pressed down key into a richText field.
 
 # Limitations of program
 The program isn't completely done such as the hiding functionalities, the complete (<a href="https://en.wikipedia.org/wiki/Keystroke_logging">Keyboard events</a>), fetching cookies...etc,MAYBE IN THE NEXT VERSION!
